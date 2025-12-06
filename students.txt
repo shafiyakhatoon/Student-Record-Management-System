@@ -1,0 +1,10 @@
+22BCS101|Hiba Khan|CSE|2|9876543210|hiba@example.com|Hyderabad|8.9|hiba123
+22BCS102|Armaan Ali|ECE|3|9988776655|armaan@example.com|Bangalore|9.1|armaan999
+22BCS103|Sana Fatima|IT|1|9345678123|sana@example.com|Chennai|8.4|sana@123
+22BCS104|Rohan Das|MECH|5|9123456780|rohan@example.com|Mumbai|7.8|rohan45
+22BCS105|Zaiba Willows|CSE|2|9876012345|zaiba@example.com|Hyderabad|9.4|zaiba2024
+22BCS106|Adnan Sheikh|EEE|4|9876540021|adnan@example.com|Delhi|8.2|adnan555
+22BCS107|Mariya Noor|CSE|3|8123456789|mariya@example.com|Pune|9.0|mariya777
+22BCS108|Faiz Rahman|AIML|1|9087654321|faiz@example.com|Kolkata|8.5|faizml01
+22BCS109|Shruti Verma|IT|2|9001234567|shruti@example.com|Indore|8.7|shru22
+22BCS110|Imran Syed|ECE|5|7876543210|imran@example.com|Chennai|7.9|imran@ece
